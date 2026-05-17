@@ -1,0 +1,1 @@
+export { useHashNavigation } from './useHashNavigation';

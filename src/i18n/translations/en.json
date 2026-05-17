@@ -1,0 +1,279 @@
+{
+  "hero": {
+    "title": "More than just a tattoo",
+    "description": "Custom pieces created with care, detail, and personal meaning. Clean lines, relaxed atmosphere, and artwork made to stay beautiful for years.",
+    "bookSession": "Book a session",
+    "works": "Works",
+    "experience": "8+ years",
+    "experienceLabel": "of tattooing experience",
+    "healedTattoos": "1000+",
+    "healedTattoosLabel": "healed tattoos",
+    "custom": "Custom",
+    "customLabel": "design for every client",
+    "basedIn": "Based in {city}"
+  },
+  "nav": {
+    "works": "Works",
+    "process": "Process",
+    "aftercare": "Aftercare",
+    "book": "Book",
+    "menu": "Menu",
+    "preferDm": "Prefer DM? Instagram is the fastest."
+  },
+  "footer": {
+    "contacts": "Contacts",
+    "aftercare": "Aftercare"
+  },
+  "home": {
+    "works": {
+      "title": "Works",
+      "subtitle": "Minimal compositions. Clean execution. Timeless result.",
+      "showMore": "Show more",
+      "showLess": "Show less"
+    },
+    "about": {
+      "title": "About me"
+    },
+    "whyMe": {
+      "title": "Why me",
+      "subtitle": "Thoughtful tattooing focused on detail, atmosphere, and timeless aesthetics."
+    },
+    "process": {
+      "title": "The Process",
+      "subtitle": "From idea to ink — a thoughtful and collaborative journey."
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Transparent pricing and a personal approach to every project."
+    },
+    "reviews": {
+      "title": "Reviews",
+      "subtitle": "Real feedback from clients — calm process, clean result."
+    },
+    "faq": {
+      "title": "FAQ",
+      "subtitle": "Everything you might want to know before booking."
+    },
+    "instagram": {
+      "title": "Instagram",
+      "subtitle": "More works and daily studio moments.",
+      "follow": "Follow"
+    },
+    "contacts": {
+      "title": "Contacts",
+      "subtitle": "Bookings & consultations"
+    }
+  },
+  "about": {
+    "intro": "Hi, I'm Anastasiya - originally from Minsk, now based in Warsaw.",
+    "p1": "Art has been part of my life for literally as long as I can remember. I started drawing when I was around three years old, graduated from an art college in Minsk, and later continued my education at the Academy of Fine Arts in Wrocław.",
+    "p2": "Creativity has always been my language - not only tattooing, but everything connected to visual expression, aesthetics, emotions, stories, and human connection. I genuinely love creating, and I equally love meeting people through this work.",
+    "p3": "For me, tattooing is never just about \"getting a tattoo.\" I approach every client individually, because every person, story, and idea is different. The process of creating something together - something personal, meaningful, and beautiful - is one of the most special parts of this job for me.",
+    "p4": "I really value the trust people give me when they choose me for something so personal and permanent. It's always a unique experience, not only artistically, but emotionally too. And honestly, being part of that means a lot to me.",
+    "ps": "P.S. I also have two dogs that I'm completely obsessed with, so there's a very high chance you'll see photos of them during our session."
+  },
+  "contacts": {
+    "label": "CONTACT",
+    "title": "Booking & consultations.",
+    "description": "For a quick quote, send: 2–5 references, placement, approximate size (cm) and preferred dates. I reply within <strong>24–48h</strong>.",
+    "bookSession": "Book a session",
+    "email": "Email",
+    "links": "LINKS",
+    "preferDm": "Prefer DM? Instagram is the fastest."
+  },
+  "faq": {
+    "0": {
+      "question": "Does it hurt?",
+      "answer": "Pain depends on the placement and your personal tolerance, but I always try to make the session as calm and comfortable as possible. Breaks are always welcome."
+    },
+    "1": {
+      "question": "How much does a tattoo cost?",
+      "answer": "Pricing depends on the size, placement, level of detail, and session length. <br/> The minimum price starts from €150."
+    },
+    "2": {
+      "question": "Is a deposit required?",
+      "answer": "Yes. A deposit (€100-€200) is required to secure your appointment and is deducted from the final price."
+    },
+    "3": {
+      "question": "Can I bring my own idea or references?",
+      "answer": "Of course. References, moodboards, sketches, or even vague ideas are always welcome. I use them to create a custom design that fits your body and personal aesthetic."
+    },
+    "4": {
+      "question": "How do I prepare for a session?",
+      "answer": "Get enough sleep, eat well before the appointment, stay hydrated, and avoid alcohol the day before. Comfortable clothing is always a good idea."
+    },
+    "5": {
+      "question": "How long does the healing take?",
+      "answer": "The surface usually heals within 2-3 weeks, while full healing can take a bit longer depending on the tattoo and your skin. Proper aftercare makes a big difference."
+    },
+    "6": {
+      "question": "Do you create custom designs?",
+      "answer": "Always. Every tattoo is designed individually for the client - I don't copy other artists' work."
+    }
+  },
+  "finalCta": {
+    "title": "Ready for your next piece?",
+    "description": "Send your idea, placement and approximate size — I'll reply within 24–48h with a clear quote and available dates.",
+    "getQuote": "Get a quote",
+    "bookSession": "Book a session",
+    "note": "Custom designs only. No repeats."
+  },
+  "pricing": {
+    "minPriceLabel": "Minimum price",
+    "minPriceValue": "from €150",
+    "minPriceNote": "Small tattoos / minimal designs.",
+    "depositLabel": "Deposit",
+    "depositValue": "€100 - €300",
+    "depositNote": "Required to secure your appointment and deducted from the final price.",
+    "factorsTitle": "Pricing depends on",
+    "factors": {
+      "0": "Placement and size",
+      "1": "Level of detail",
+      "2": "Custom design complexity",
+      "3": "Session length",
+      "4": "Cover-ups or reworks (if needed)"
+    },
+    "includedTitle": "What's included",
+    "included": {
+      "0": "Consultation and guidance",
+      "1": "Custom design created for you",
+      "2": "Sterile professional setup",
+      "3": "Aftercare instructions and healing support"
+    },
+    "bookSession": "Book a session",
+    "getQuote": "Get a quote",
+    "quoteNote": "For an exact quote, send your idea, references, placement, approximate size, and preferred dates.",
+    "requestTitle": "TO REQUEST A QUOTE",
+    "requestSteps": {
+      "0": "Your idea",
+      "1": "A few reference images",
+      "2": "Placement on the body (photo optional)",
+      "3": "Approximate size (cm)",
+      "4": "Preferred dates"
+    },
+    "roughIdea": "You don't need a fully formed idea - even a rough concept or mood is enough to start.",
+    "replyTime": "I reply within <strong>24–48h</strong>."
+  },
+  "process": {
+    "0": {
+      "title": "Send your idea",
+      "description": "Send me your tattoo idea, inspiration images, references, or simply the mood and feeling you want the tattoo to have. <br/><br/>Even if the concept is still rough or unfinished - that’s completely okay."
+    },
+    "1": {
+      "title": "Placement & size",
+      "description": "Please include the placement on the body, approximate size in centimeters, and a photo of the area where you’d like the tattoo."
+    },
+    "2": {
+      "title": "Preferred month",
+      "description": "Let me know which month you’d like to book your session for, so we can find a suitable date together."
+    },
+    "3": {
+      "title": "Design & booking",
+      "description": "After receiving all the information, I prepare a custom sketch for you. <br/><br/>We discuss the final details, confirm the appointment date, and talk through the pricing."
+    },
+    "4": {
+      "title": "Session day",
+      "description": "Then we meet in the studio and create your new beautiful tattoo :)"
+    }
+  },
+  "reviews": {
+    "note": "Real client feedback. More highlights on Instagram.",
+    "0": {
+      "text": "The cleanest linework I've seen. Calm session, great guidance, and the result looks exactly like the sketch.",
+      "author": "Anna",
+      "meta": "Berlin · via Instagram"
+    },
+    "1": {
+      "text": "Professional from start to finish. Sterility, attention to detail — and a very clean healing.",
+      "author": "Kira",
+      "meta": "Warsaw · repeat client"
+    },
+    "2": {
+      "text": "Loved the composition and how it fits my body. Minimal, elegant, and done with real precision.",
+      "author": "Sofia",
+      "meta": "Prague · fine line"
+    }
+  },
+  "whyMe": {
+    "0": {
+      "title": "Sterile, always",
+      "text": "Professional hygiene standards are a priority in every session. <br/><br/>Single-use needles and disposable supplies only, with a fully cleaned and disinfected workspace before and after each appointment."
+    },
+    "1": {
+      "title": "Custom design",
+      "text": "Every tattoo is created individually for the client and placement. <br/><br/>I focus on body flow, composition, and details to make each piece feel natural, balanced, and personal - never copied or generic."
+    },
+    "2": {
+      "title": "Clean lines",
+      "text": "Precision matters to me. <br/><br/>I pay close attention to line quality, contrast, and readability so the tattoo heals beautifully and stays visually strong over time."
+    },
+    "3": {
+      "title": "Smooth booking",
+      "text": "Easy communication, quick replies, and a transparent process from start to finish. <br/><br/>We discuss your idea, placement, size, and pricing beforehand so everything feels clear, organized, and stress-free."
+    },
+    "4": {
+      "title": "Comfortable sessions",
+      "text": "I want the experience to feel calm, safe, and human. <br/><br/>Comfortable atmosphere, good music, soulful conversations, breaks when needed - and no pressure to survive the session like a medieval warrior."
+    }
+  },
+  "aftercare": {
+    "heroTitle": "Tattoo Aftercare",
+    "heroSubtitle": "Proper healing is part of the art.",
+    "first24hTitle": "First 24 hours",
+    "first24h": {
+      "0": "Keep the bandage on for 2–4 hours (unless advised otherwise).",
+      "1": "Wash gently with lukewarm water and fragrance-free soap.",
+      "2": "Pat dry with a clean towel — do not rub.",
+      "3": "Apply a very thin layer of recommended aftercare cream."
+    },
+    "days2to14Title": "Days 2–14",
+    "days2to14": {
+      "0": "Wash gently 1–2 times per day.",
+      "1": "Apply a thin layer of cream as needed.",
+      "2": "Avoid tight clothing on the tattooed area.",
+      "3": "Do not scratch or pick peeling skin."
+    },
+    "avoidTitle": "Avoid during healing",
+    "avoid": {
+      "0": "Swimming pools, sauna, sea.",
+      "1": "Direct sun exposure.",
+      "2": "Heavy workouts causing friction.",
+      "3": "Alcohol during the healing process.",
+      "4": "Alcohol-based or perfumed products."
+    },
+    "longTermTitle": "Long-term care",
+    "longTerm": {
+      "0": "Use SPF 30+ on healed tattoos.",
+      "1": "Keep the skin moisturized.",
+      "2": "Protect from excessive sun exposure."
+    },
+    "note": "Healing usually takes 2–4 weeks depending on placement and skin type. If you notice unusual redness, swelling, or irritation — contact me immediately."
+  },
+  "contactsPage": {
+    "heroTitle": "Contacts",
+    "heroSubtitle": "Bookings, quick quotes, and consultations.",
+    "bookingLabel": "BOOKING",
+    "bookingTitle": "Booking & consultations",
+    "bookingDescription": "For a quick quote, send: 2–5 references, placement, approximate size (cm) and preferred dates. I reply within <strong>24–48h</strong>.",
+    "bookSession": "Book a session",
+    "email": "Email",
+    "links": "LINKS",
+    "preferDm": "Prefer DM? Instagram is the fastest.",
+    "howToBookTitle": "How to book",
+    "howToBook": {
+      "0": "Send your request (form / DM / email).",
+      "1": "I confirm details + quote.",
+      "2": "Deposit secures your date.",
+      "3": "Session day — calm studio, clean execution."
+    },
+    "whatToSendTitle": "What to send for a quote",
+    "whatToSend": {
+      "0": "2–5 reference images",
+      "1": "Placement on the body",
+      "2": "Approximate size (cm)",
+      "3": "Preferred dates",
+      "4": "Your city (if traveling)"
+    },
+    "note": "If you're not sure about placement or size — send an idea and a photo of the area. I'll suggest the best composition for your body flow."
+  }
+}

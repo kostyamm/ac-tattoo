@@ -1,0 +1,279 @@
+{
+  "hero": {
+    "title": "Więcej niż tylko tatuaż",
+    "description": "Unikalne projekty tworzone z dbałością o szczegóły i osobiste znaczenie. Czyste linie, spokojna atmosfera i dzieła, które pięknie się starzeją.",
+    "bookSession": "Umów wizytę",
+    "works": "Portfolio",
+    "experience": "8+ lat",
+    "experienceLabel": "doświadczenia w tatuowaniu",
+    "healedTattoos": "1000+",
+    "healedTattoosLabel": "zagojonych tatuaży",
+    "custom": "Indywidualny",
+    "customLabel": "projekt dla każdego klienta",
+    "basedIn": "Warszawa"
+  },
+  "nav": {
+    "works": "Portfolio",
+    "process": "Proces",
+    "aftercare": "Pielęgnacja",
+    "book": "Umów",
+    "menu": "Menu",
+    "preferDm": "Wolisz DM? Na Instagramie odpiszę najszybciej."
+  },
+  "footer": {
+    "contacts": "Kontakt",
+    "aftercare": "Pielęgnacja"
+  },
+  "home": {
+    "works": {
+      "title": "Wybrane prace",
+      "subtitle": "Minimalne kompozycje. Czyste wykonanie. Ponadczasowy efekt.",
+      "showMore": "Pokaż wszystkie prace",
+      "showLess": "Zwiń"
+    },
+    "about": {
+      "title": "O mnie"
+    },
+    "whyMe": {
+      "title": "Dlaczego ja",
+      "subtitle": "Przemyślane tatuowanie skupione na detalach, atmosferze i ponadczasowej estetyce."
+    },
+    "process": {
+      "title": "Proces",
+      "subtitle": "Od pomysłu do tatuażu — przemyślana i wspólna podróż."
+    },
+    "pricing": {
+      "title": "Cennik",
+      "subtitle": "Przejrzyste ceny i indywidualne podejście do każdego projektu."
+    },
+    "reviews": {
+      "title": "Opinie",
+      "subtitle": "Prawdziwe opinie klientów — spokojny proces, czysty efekt."
+    },
+    "faq": {
+      "title": "FAQ",
+      "subtitle": "Wszystko, co warto wiedzieć przed rezerwacją."
+    },
+    "instagram": {
+      "title": "Instagram",
+      "subtitle": "Więcej prac i codzienne chwile ze studia.",
+      "follow": "Obserwuj"
+    },
+    "contacts": {
+      "title": "Kontakt",
+      "subtitle": "Rezerwacje i konsultacje"
+    }
+  },
+  "about": {
+    "intro": "Cześć, jestem Anastasiya — pochodzę z Mińska, teraz mieszkam w Warszawie.",
+    "p1": "Sztuka towarzyszy mi przez całe życie, odkąd pamiętam. Zaczęłam rysować w wieku trzech lat, ukończyłam szkołę plastyczną w Mińsku, a później kontynuowałam edukację na Akademii Sztuk Pięknych we Wrocławiu.",
+    "p2": "Twórczość zawsze była moim językiem — nie tylko tatuowanie, ale wszystko, co związane z ekspresją wizualną, estetyką, emocjami, historiami i więzią z ludźmi. Naprawdę kocham tworzyć i równie bardzo lubię poznawać ludzi przez tę pracę.",
+    "p3": "Dla mnie tatuowanie nigdy nie polega tylko na \"zrobieniu tatuażu\". Podchodzę do każdego klienta indywidualnie, bo każda osoba, historia i pomysł są inne. Tworzenie czegoś razem — osobistego, znaczącego i pięknego — to jedna z najwyjątkowszych części tej pracy.",
+    "p4": "Bardzo cenię zaufanie, jakie ludzie mi dają, wybierając mnie do czegoś tak osobistego i trwałego. To zawsze wyjątkowe doświadczenie — nie tylko artystycznie, ale też emocjonalnie. I szczerze mówiąc, bycie częścią tego wiele dla mnie znaczy.",
+    "ps": "P.S. Mam też dwa psy, którymi jestem zupełnie zafascynowana, więc jest bardzo duże prawdopodobieństwo, że zobaczysz ich zdjęcia podczas naszej sesji."
+  },
+  "contacts": {
+    "label": "KONTAKT",
+    "title": "Rezerwacje i konsultacje.",
+    "description": "Aby szybko wycenić projekt, wyślij: 2–5 referencji, miejsce tatuażu, przybliżony rozmiar (cm) i preferowane daty. Odpowiadam w ciągu <strong>24–48h</strong>.",
+    "bookSession": "Umów wizytę",
+    "email": "E-mail",
+    "links": "LINKI",
+    "preferDm": "Wolisz DM? Na Instagramie odpiszę najszybciej."
+  },
+  "faq": {
+    "0": {
+      "question": "Czy to boli?",
+      "answer": "Ból zależy od miejsca i osobistej tolerancji, ale zawsze staram się, żeby sesja była jak najspokojeniejsza i wygodna. Przerwy są mile widziane."
+    },
+    "1": {
+      "question": "Ile kosztuje tatuaż?",
+      "answer": "Cena zależy od rozmiaru, miejsca, poziomu szczegółowości i długości sesji. <br/> Cena minimalna zaczyna się od 150€."
+    },
+    "2": {
+      "question": "Czy wymagany jest depozyt?",
+      "answer": "Tak. Depozyt (100–200€) jest wymagany do potwierdzenia terminu i jest odliczany od końcowej ceny."
+    },
+    "3": {
+      "question": "Czy mogę przynieść własny pomysł lub referencje?",
+      "answer": "Oczywiście. Referencje, moodboardy, szkice czy nawet ogólne pomysły są zawsze mile widziane. Używam ich, aby stworzyć indywidualny projekt dopasowany do Twojego ciała i estetyki."
+    },
+    "4": {
+      "question": "Jak przygotować się do sesji?",
+      "answer": "Wyśpij się, zjedz posiłek przed wizytą, nawodnij się i unikaj alkoholu dzień wcześniej. Wygodne ubranie to zawsze dobry pomysł."
+    },
+    "5": {
+      "question": "Jak długo trwa gojenie?",
+      "answer": "Powierzchnia goi się zazwyczaj w ciągu 2–3 tygodni, a pełne wygojenie może potrwać nieco dłużej w zależności od tatuażu i skóry. Właściwa pielęgnacja ma ogromne znaczenie."
+    },
+    "6": {
+      "question": "Czy tworzysz projekty na zamówienie?",
+      "answer": "Zawsze. Każdy tatuaż jest projektowany indywidualnie dla klienta — nie kopiuję prac innych artystów."
+    }
+  },
+  "finalCta": {
+    "title": "Gotowy na kolejny tatuaż?",
+    "description": "Wyślij swój pomysł, miejsce i przybliżony rozmiar — odpiszę w ciągu 24–48h z wyceną i dostępnymi terminami.",
+    "getQuote": "Zapytaj o wycenę",
+    "bookSession": "Umów wizytę",
+    "note": "Tylko projekty na zamówienie. Bez powtórzeń."
+  },
+  "pricing": {
+    "minPriceLabel": "Cena minimalna",
+    "minPriceValue": "od 150€",
+    "minPriceNote": "Małe tatuaże / minimalistyczne projekty.",
+    "depositLabel": "Depozyt",
+    "depositValue": "100€ - 300€",
+    "depositNote": "Wymagany do rezerwacji terminu, odliczany od końcowej ceny.",
+    "factorsTitle": "Cena zależy od",
+    "factors": {
+      "0": "Miejsca i rozmiaru",
+      "1": "Poziomu szczegółowości",
+      "2": "Złożoności projektu na zamówienie",
+      "3": "Długości sesji",
+      "4": "Przeróbek lub cover-upów (jeśli dotyczy)"
+    },
+    "includedTitle": "Co jest wliczone",
+    "included": {
+      "0": "Konsultacja i wskazówki",
+      "1": "Indywidualny projekt stworzony dla Ciebie",
+      "2": "Sterylne profesjonalne stanowisko",
+      "3": "Instrukcje pielęgnacji i wsparcie podczas gojenia"
+    },
+    "bookSession": "Umów wizytę",
+    "getQuote": "Zapytaj o wycenę",
+    "quoteNote": "Aby uzyskać dokładną wycenę, wyślij swój pomysł, referencje, miejsce, przybliżony rozmiar i preferowane daty.",
+    "requestTitle": "ABY ZAPYTAĆ O WYCENĘ",
+    "requestSteps": {
+      "0": "Twój pomysł",
+      "1": "Kilka zdjęć referencyjnych",
+      "2": "Miejsce na ciele (zdjęcie opcjonalne)",
+      "3": "Przybliżony rozmiar (cm)",
+      "4": "Preferowane daty"
+    },
+    "roughIdea": "Nie potrzebujesz w pełni gotowego pomysłu — nawet ogólny koncept lub nastrój wystarczy, aby zacząć.",
+    "replyTime": "Odpowiadam w ciągu <strong>24–48h</strong>."
+  },
+  "process": {
+    "0": {
+      "title": "Wyślij swój pomysł",
+      "description": "Wyślij mi swój pomysł na tatuaż, zdjęcia inspiracji, referencje lub po prostu nastrój i uczucie, które chcesz przekazać. <br/><br/>Nawet jeśli koncept jest jeszcze niedopracowany — to zupełnie w porządku."
+    },
+    "1": {
+      "title": "Miejsce i rozmiar",
+      "description": "Podaj miejsce na ciele, przybliżony rozmiar w centymetrach i zdjęcie obszaru, w którym chcesz umieścić tatuaż."
+    },
+    "2": {
+      "title": "Preferowany miesiąc",
+      "description": "Daj mi znać, na który miesiąc chcesz zarezerwować sesję, żebyśmy mogli wspólnie znaleźć odpowiedni termin."
+    },
+    "3": {
+      "title": "Projekt i rezerwacja",
+      "description": "Po otrzymaniu wszystkich informacji przygotowuję dla Ciebie indywidualny szkic. <br/><br/>Omawiamy szczegóły końcowe, potwierdzamy termin wizyty i ustalamy cenę."
+    },
+    "4": {
+      "title": "Dzień sesji",
+      "description": "Spotykamy się w studio i tworzymy Twój nowy, piękny tatuaż :)"
+    }
+  },
+  "reviews": {
+    "note": "Opinie prawdziwych klientów. Więcej na Instagramie.",
+    "0": {
+      "text": "Najczystsze linie, jakie widziałam. Spokojna sesja, świetne wskazówki, a efekt wygląda dokładnie jak szkic.",
+      "author": "Anna",
+      "meta": "Berlin · via Instagram"
+    },
+    "1": {
+      "text": "Profesjonalizm od początku do końca. Sterylność, dbałość o szczegóły — i bardzo staranne gojenie.",
+      "author": "Kira",
+      "meta": "Warszawa · stały klient"
+    },
+    "2": {
+      "text": "Uwielbiam kompozycję i to, jak dopasowuje się do mojego ciała. Minimalistyczny, elegancki i wykonany z prawdziwą precyzją.",
+      "author": "Sofia",
+      "meta": "Praga · fine line"
+    }
+  },
+  "whyMe": {
+    "0": {
+      "title": "Sterylność, zawsze",
+      "text": "Profesjonalne standardy higieny to priorytet w każdej sesji. <br/><br/>Wyłącznie jednorazowe igły i materiały eksploatacyjne, a stanowisko jest w pełni oczyszczone i zdezynfekowane przed i po każdej wizycie."
+    },
+    "1": {
+      "title": "Projekt na zamówienie",
+      "text": "Każdy tatuaż jest tworzony indywidualnie dla klienta i miejsca. <br/><br/>Skupiam się na przepływie ciała, kompozycji i detalach, aby każda praca była naturalna, zrównoważona i osobista — nigdy skopiowana ani generyczna."
+    },
+    "2": {
+      "title": "Czyste linie",
+      "text": "Precyzja jest dla mnie ważna. <br/><br/>Szczególną uwagę poświęcam jakości linii, kontrastowi i czytelności, aby tatuaż pięknie się zagoił i zachował wizualną siłę przez lata."
+    },
+    "3": {
+      "title": "Prosta rezerwacja",
+      "text": "Łatwa komunikacja, szybkie odpowiedzi i przejrzysty proces od początku do końca. <br/><br/>Omawiamy Twój pomysł, miejsce, rozmiar i cenę wcześniej, aby wszystko było jasne, zorganizowane i bezstresowe."
+    },
+    "4": {
+      "title": "Komfortowe sesje",
+      "text": "Chcę, żeby doświadczenie było spokojne, bezpieczne i ludzkie. <br/><br/>Komfortowa atmosfera, dobra muzyka, szczere rozmowy, przerwy kiedy potrzebujesz — i żadnej presji, żeby przetrwać sesję jak średniowieczny wojownik."
+    }
+  },
+  "aftercare": {
+    "heroTitle": "Pielęgnacja tatuażu",
+    "heroSubtitle": "Prawidłowe gojenie jest częścią sztuki.",
+    "first24hTitle": "Pierwsze 24 godziny",
+    "first24h": {
+      "0": "Trzymaj opatrunek przez 2–4 godziny (chyba że zostałeś inaczej poinstruowany).",
+      "1": "Myj delikatnie letnią wodą i mydłem bez zapachu.",
+      "2": "Osusz czystym ręcznikiem — nie trzyj.",
+      "3": "Nałóż bardzo cienką warstwę zalecanego kremu do pielęgnacji."
+    },
+    "days2to14Title": "Dni 2–14",
+    "days2to14": {
+      "0": "Myj delikatnie 1–2 razy dziennie.",
+      "1": "Nakładaj cienką warstwę kremu w razie potrzeby.",
+      "2": "Unikaj ciasnych ubrań na tatuowanym miejscu.",
+      "3": "Nie drap i nie zdejmuj łuszczącej się skóry."
+    },
+    "avoidTitle": "Czego unikać podczas gojenia",
+    "avoid": {
+      "0": "Baseny, sauna, morze.",
+      "1": "Bezpośrednie nasłonecznienie.",
+      "2": "Intensywny wysiłek fizyczny powodujący tarcie.",
+      "3": "Alkohol podczas gojenia.",
+      "4": "Produkty na bazie alkoholu lub perfumowane."
+    },
+    "longTermTitle": "Długoterminowa pielęgnacja",
+    "longTerm": {
+      "0": "Używaj SPF 30+ na zagojoną skórę z tatuażem.",
+      "1": "Nawilżaj skórę regularnie.",
+      "2": "Chroń przed nadmiernym nasłonecznieniem."
+    },
+    "note": "Gojenie zazwyczaj trwa 2–4 tygodnie w zależności od miejsca i typu skóry. Jeśli zauważysz nietypowe zaczerwienienie, opuchliznę lub podrażnienie — skontaktuj się ze mną natychmiast."
+  },
+  "contactsPage": {
+    "heroTitle": "Kontakt",
+    "heroSubtitle": "Rezerwacje, szybkie wyceny i konsultacje.",
+    "bookingLabel": "REZERWACJA",
+    "bookingTitle": "Rezerwacje i konsultacje",
+    "bookingDescription": "Aby szybko wycenić projekt, wyślij: 2–5 referencji, miejsce tatuażu, przybliżony rozmiar (cm) i preferowane daty. Odpowiadam w ciągu <strong>24–48h</strong>.",
+    "bookSession": "Zarezerwuj przez formularz",
+    "email": "E-mail",
+    "links": "LINKI",
+    "preferDm": "Wolisz DM? Na Instagramie odpiszę najszybciej.",
+    "howToBookTitle": "Jak zarezerwować",
+    "howToBook": {
+      "0": "Wyślij zapytanie (formularz / DM / e-mail).",
+      "1": "Potwierdzam szczegóły i wycenę.",
+      "2": "Depozyt zabezpiecza Twój termin.",
+      "3": "Dzień sesji — spokojne studio, czyste wykonanie."
+    },
+    "whatToSendTitle": "Co wysłać do wyceny",
+    "whatToSend": {
+      "0": "2–5 zdjęć referencyjnych",
+      "1": "Miejsce na ciele",
+      "2": "Przybliżony rozmiar (cm)",
+      "3": "Preferowane daty",
+      "4": "Twoje miasto (jeśli przyjeżdżasz z innego miejsca)"
+    },
+    "note": "Jeśli nie jesteś pewny miejsca ani rozmiaru — wyślij pomysł i zdjęcie okolicy. Zaproponuję najlepszą kompozycję dla Twojego ciała."
+  }
+}

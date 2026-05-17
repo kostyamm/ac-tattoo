@@ -1,0 +1,21 @@
+{
+  "name": "Cherepanova Tattoo",
+  "short_name": "Cherepanova",
+  "description": "Custom pieces created with care, detail, and personal meaning. Clean lines, relaxed atmosphere, and artwork made to stay beautiful for years.",
+  "start_url": "/en/",
+  "display": "browser",
+  "background_color": "#f7f3ee",
+  "theme_color": "#5c3520",
+  "icons": [
+    {
+      "src": "/images/meta/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/meta/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
